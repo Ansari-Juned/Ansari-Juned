@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I am an 18 year old, looking for passionate projects to collaborate with.
+- I am an 20 year old, looking for passionate projects to collaborate with.
 - I'll soon start working on a group project with my classmates, to create VR environment for simulated practical sessions for professional activities.
 - I'm learning C# coding with my friends to enable myself for Unity game engine to create 3-D VR environment.
 - I'm also learning Arduino development.
