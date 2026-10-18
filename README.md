@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- I am an 20 year old, looking for passionate projects to collaborate with.
-- I'll soon start working on a group project with my classmates, to create VR environment for simulated practical sessions for professional activities.
-- I'm learning C# coding with my friends to enable myself for Unity game engine to create 3-D VR environment.
-- I'm also learning Arduino development.
+- I am a 20 year old college student passionate for learning new and interesting things.
+- I am currently attending an undergraduate program of Instrumentation & Control Engineering, with a growing interest in Software Development, and Management Roles in STEM projects.
+- I am looking for passionate software application projects to collaborate with.
+- I am currently working on a small project that helps an I&C engineer tune a PID controller with the help of an AI agent for any process in industry.
 
 - <ins>How to reach me</ins> : Contact me on Gmail " ***j.ansari7862@gmail.com*** "
 
